@@ -65,7 +65,7 @@ Accessing the tensors, we can, for instance, plot train and validation losses al
 <br><br>
 ![image](https://github.com/hualcosa/AWS-Machine-Learning-Engineer-NanoDegree-Capstome/assets/46836901/a2372020-4410-4af2-ad69-1c70381a6f00)
 
-Sagemaker profiler generates a report that is saved in the same S3 bucket where the trainig model artifacts are saved. You can download it 
+Sagemaker profiler generates a report  saved in the same S3 bucket where the training model artifacts are saved. You can download it 
 and check whether any of the alerts were triggered during the training process:
 <br><br>
 ![image](https://github.com/hualcosa/AWS-Machine-Learning-Engineer-NanoDegree-Capstome/assets/46836901/5b0bb317-e54a-484b-b7a0-0fb26e98b4ad)
